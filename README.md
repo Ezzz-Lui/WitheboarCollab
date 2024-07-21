@@ -1,4 +1,5 @@
 # Pizarra Colaborativa en Tiempo Real
+![Main View on MAC](https://github.com/user-attachments/assets/51f4e32e-2aae-4794-92c7-f4b6f42fce06)
 
 ## Descripción
 
