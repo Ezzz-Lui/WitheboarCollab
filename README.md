@@ -51,8 +51,7 @@ Este proyecto es una pizarra colaborativa en tiempo real que permite a múltiple
 1. Clona este repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/pizarra-colaborativa.git
-    cd pizarra-colaborativa
+    git clone https://github.com/Ezzz-Lui/WitheboarCollab.git
     ```
 
 2. Instala las dependencias del backend:
@@ -68,32 +67,6 @@ Este proyecto es una pizarra colaborativa en tiempo real que permite a múltiple
     cd ../frontend
     npm install
     ```
-
-4. Configura las variables de entorno:
-
-    Crea un archivo `.env` en el directorio `backend` con el siguiente contenido:
-
-    ```env
-    PORT=4000
-    MONGO_URI=tu_conexion_mongodb
-    ```
-
-5. Inicia el servidor backend:
-
-    ```bash
-    cd backend
-    npm start
-    ```
-
-6. Inicia la aplicación frontend:
-
-    ```bash
-    cd ../frontend
-    npm start
-    ```
-
-7. Abre tu navegador y navega a `http://localhost:3000` para ver la aplicación en funcionamiento.
-
 ## Contribución
 
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
@@ -108,5 +81,4 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo [LICENSE](LICENSE).
 
-## Preview de la Aplicación
 
