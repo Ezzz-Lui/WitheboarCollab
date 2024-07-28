@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.App {
+  text-align: center;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+canvas {
+  border: 1px solid #000;
+}
